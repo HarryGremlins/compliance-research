@@ -1,0 +1,27 @@
+notes/2-privacy-rules-mapping.md
+  f821e4dec7b05cd1 1-283
+notes/3-compliance-coverage-matrix.md
+  f821e4dec7b05cd1 1-135
+notes/4-regional-compliance-cards.md
+  f821e4dec7b05cd1 1-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.17",
+  "base_commit_sha": "4dbe203a83eae1bf7172043ef7c2f94a4e26eed6",
+  "prompts": {
+    "f821e4dec7b05cd1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d144194-00b0-4d35-966d-f2cd29df7af3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HarryGremlins <importwyf@altiuslabs.xyz>",
+      "messages": [],
+      "total_additions": 830,
+      "total_deletions": 33,
+      "accepted_lines": 797,
+      "overriden_lines": 0
+    }
+  }
+}
