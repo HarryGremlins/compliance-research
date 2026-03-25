@@ -371,5 +371,19 @@ Tony 在会议中明确了一个关键观点：
 ---
 
 *创建日期：2026-03-17*
-*信息来源：Canton Network 技术文档 (docs.digitalasset.com)、Kaleido 技术文档 (docs.kaleido.io)、RootData API、官方网站、3/16 Altius 团队会议纪要*
 *项目：Tabula — 机构隐私合规研究*
+
+### 信息来源
+
+| 来源 | URL |
+|---|---|
+| Canton Network 官网 | https://www.canton.network/ |
+| Canton Network 技术文档 | https://docs.digitalasset.com/build/3.4/ |
+| Canton 生态系统参与者 | https://www.cantonecosystem.com/ |
+| Digital Asset 产品页 | https://www.digitalasset.com/products |
+| Kaleido 官网 | https://www.kaleido.io/ |
+| Kaleido 技术文档 | https://docs.kaleido.io/baas/ |
+| Kaleido 安全与认证 | https://docs.kaleido.io/baas/kaleido-platform/security/ |
+| Paladin (EVM 可编程隐私) | https://www.kaleido.io/blockchain-platform/paladin |
+| RootData — Kaleido | https://www.rootdata.com/Projects/detail/Kaleido?k=MjE1Mg== |
+| RootData — Canton Network | https://www.rootdata.com/Projects/detail/Canton%20Network?k=NzgyOA== |

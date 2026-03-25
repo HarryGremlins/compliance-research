@@ -215,5 +215,16 @@ ISO 20022 支付消息（Customer Credit Transfer = pacs.008）包含以下涉�
 ---
 
 *创建日期：2026-03-18*
-*信息来源：FATF Recommendations 2012 (Updated Oct 2025) pp.80-88, FATF VA/VASP Guidance 2021 pp.82-88, OFAC Compliance Framework (2019), ISO 20022 for Dummies Ch.1*
 *项目：Tabula — 机构隐私合规研究*
+
+### 信息来源
+
+| 来源 | URL |
+|---|---|
+| FATF Recommendations 2012 (Updated Oct 2025) | https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html |
+| FATF Updated Guidance for VA/VASP (2021) | https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html |
+| OFAC Compliance Framework | https://ofac.treasury.gov/media/16331/download?inline |
+| OFAC SDN List (数据下载) | https://ofac.treasury.gov/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists |
+| EU Consolidated Sanctions List | https://www.consilium.europa.eu/en/policies/sanctions/consolidated-list/ |
+| ISO 20022 消息目录 | https://www.iso20022.org/catalogue-messages |
+| ISO 20022 for Dummies (SWIFT 6th Ed) | 本地文件 context/ISO20022.pdf |

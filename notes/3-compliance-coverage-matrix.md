@@ -131,5 +131,19 @@
 ---
 
 *创建日期：2026-03-25*
-*信息来源：notes/1-compliance-rules-mapping.md、notes/2-privacy-rules-mapping.md、notes/competitor-analysis-kaleido-canton.md*
 *项目：Tabula — 机构隐私合规研究*
+
+### 信息来源
+
+| 来源 | URL |
+|---|---|
+| FATF Recommendations 2012 | https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html |
+| FATF VA/VASP Guidance 2021 | https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html |
+| OFAC Compliance Framework | https://ofac.treasury.gov/media/16331/download?inline |
+| GDPR 全文 | https://gdpr-info.eu/ |
+| CCPA/CPRA | https://oag.ca.gov/privacy/ccpa |
+| 新加坡 PDPA | https://sso.agc.gov.sg/Act/PDPA2012 |
+| Canton Network 技术文档 | https://docs.digitalasset.com/build/3.4/ |
+| Kaleido 技术文档 | https://docs.kaleido.io/baas/ |
+| Kaleido 安全与认证 | https://docs.kaleido.io/baas/kaleido-platform/security/ |
+| ISO 20022 消息目录 | https://www.iso20022.org/catalogue-messages |

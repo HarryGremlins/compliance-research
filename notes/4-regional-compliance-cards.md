@@ -156,5 +156,20 @@
 ---
 
 *创建日期：2026-03-25*
-*信息来源：EU PSD2 Directive 2015/2366 Art.63-72、ISO 20022 for Dummies Ch.2、FATF Recommendations/VA Guidance、GDPR、CCPA/CPRA、新加坡 PDPA/PSA*
 *项目：Tabula — 机构隐私合规研究*
+
+### 信息来源
+
+| 来源 | URL |
+|---|---|
+| EU PSD2 Directive 2015/2366 全文 | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015L2366 |
+| FATF Recommendations 2012 | https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html |
+| FATF VA/VASP Guidance 2021 | https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html |
+| OFAC Compliance Framework | https://ofac.treasury.gov/media/16331/download?inline |
+| GDPR 全文 | https://gdpr-info.eu/ |
+| CCPA/CPRA (加州司法部) | https://oag.ca.gov/privacy/ccpa |
+| 新加坡 PDPA 法律原文 | https://sso.agc.gov.sg/Act/PDPA2012 |
+| 新加坡 PSA 2019 法律原文 | https://sso.agc.gov.sg/Acts-Supp/2-2019/Published/20190220?DocDate=20190220 |
+| MAS DPT 服务商监管通知 | https://www.mas.gov.sg/regulation/notices/psn02-aml-cft |
+| ISO 20022 消息目录 | https://www.iso20022.org/catalogue-messages |
+| ISO 20022 SWIFT 迁移计划 | https://www.swift.com/standards/iso-20022/get-ready-iso-20022-cbpr |
