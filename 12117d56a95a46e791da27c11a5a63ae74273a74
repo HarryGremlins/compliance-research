@@ -1,0 +1,31 @@
+notes/4-regional-compliance-cards.md
+  f821e4dec7b05cd1 160-175
+notes/1-compliance-rules-mapping.md
+  f821e4dec7b05cd1 219-230
+notes/3-compliance-coverage-matrix.md
+  f821e4dec7b05cd1 135-149
+notes/0-competitor-analysis-kaleido-canton.md
+  f821e4dec7b05cd1 375-389
+notes/2-privacy-rules-mapping.md
+  f821e4dec7b05cd1 283-298
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.17",
+  "base_commit_sha": "12117d56a95a46e791da27c11a5a63ae74273a74",
+  "prompts": {
+    "f821e4dec7b05cd1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d144194-00b0-4d35-966d-f2cd29df7af3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HarryGremlins <importwyf@altiuslabs.xyz>",
+      "messages": [],
+      "total_additions": 74,
+      "total_deletions": 5,
+      "accepted_lines": 74,
+      "overriden_lines": 0
+    }
+  }
+}
