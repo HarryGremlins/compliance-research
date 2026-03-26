@@ -1,5 +1,7 @@
 # 竞品深度分析：Kaleido vs. Canton Network
 
+> **TL;DR**：Canton 有最强的协议层隐私（子交易隐私、数据最小化）但无合规认证、无 ZKP、不兼容 EVM；Kaleido 有 SOC 2 + ISO 27001/17/18 认证但隐私停留在应用层。两者都没有 ISO 27701、没有原生 Travel Rule 支持、没有内置制裁名单筛查、没有合规仪表盘。Altius 的差异化定位：EVM 兼容 + 内置合规（Transfer Hooks + Compliance Standards）+ 可选隐私（ZK/TEE/Viewing Key）+ 一国一链天然满足数据本地化。
+>
 > **目标**：分析 Kaleido 和 Canton Network 如何满足机构隐私合规需求，识别各自的优势和不足，找出 Altius L1 的差异化发力点。
 >
 > **聚焦领域**：fintech、银行、机构金融、支付
